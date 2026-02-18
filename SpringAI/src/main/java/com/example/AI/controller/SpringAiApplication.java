@@ -1,4 +1,4 @@
-package com.example.AI;
+package com.example.AI.controller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
